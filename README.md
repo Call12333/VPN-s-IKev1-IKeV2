@@ -20,6 +20,7 @@ Establecer un túnel VPN funcional que permita la comunicación cifrada entre do
 📌 El tráfico entre redes viaja **cifrado mediante IPsec**
 
 
+<img width="886" height="499" alt="image" src="https://github.com/user-attachments/assets/c0f1b548-2d58-4c15-84e2-3adb83bc00bb" />
 
 
 ---
